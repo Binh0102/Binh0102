@@ -15,3 +15,4 @@ if flag == True:
 	print(n, "là số nguyên tố")
 else:
 	print(n, "không phải là số nguuyen tố")
+# xin chao ca lop
