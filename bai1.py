@@ -16,3 +16,4 @@ if flag == True:
 else:
 	print(n, "không phải là số nguuyen tố")
 # xin chao ca lop
+# Đây là lớp 1402
